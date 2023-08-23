@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://EzyCzy.github.io/sitemap.xml
