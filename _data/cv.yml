@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Amirul Haziq
+#    - name: Date of Birth
+#      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: Malay, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Secondary
+      institution: MARA College Banting (Kolej MARA Banting)
+      year: 2021 - 2023
       description:
         - Description 1.
         - Description 2.

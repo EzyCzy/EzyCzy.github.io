@@ -31,6 +31,7 @@
       </div>
       <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
         <h6 class="title font-weight-bold ml-1 ml-md-4"><a href="{{ content.url }}">{{content.studyType}}</a></h6>
+        <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">Grade: {{content.score}}</h6>
         <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.institution}}</h6>
         <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic;">{{content.area}}</h6>
         <ul class="items">
@@ -39,7 +40,40 @@
             <span class="item">{{ item }}</span>
           </li>
           {% endfor %}
+          {% for item in content.universitycourses %}
         </ul>
+        <ul class="items">
+          {% if item.year %}
+          <li>
+            <span class="items">
+              {{ item.year}} <br>
+              {% for obj in item.semesters %}
+              {% if obj.semester1 %}
+              <lu>
+              Semester 1: 
+              {% for class in obj.semester1 %}
+              {% for course in class.coursecode %}
+                   <h6 class="ml-1 ml-md-4" style="font-size: 0.9rem;">{{course}}</h6>
+              {% endfor %}
+              {% endfor %}
+              </lu>
+              {% endif %}
+              {% if obj.semester2 %}
+              <lu>
+              Semester 2: 
+              {% for class in obj.semester2 %}
+              {% for course in class.coursecode %}
+                   <h6 class="ml-1 ml-md-4" style="font-size: 0.9rem;">{{course}}</h6>
+              {% endfor %}
+              {% endfor %}
+              </lu>
+              {% endif %}
+              {% endfor %}
+            </span>
+          </li>
+          {% endif %}
+        </ul>
+        {% endfor %}
       </div>
     </div>
   </li>

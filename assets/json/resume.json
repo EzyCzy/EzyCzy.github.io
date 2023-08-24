@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Amirul Haziq",
+    "Role": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mirulh406@gmail.com",
+    //"phone": "(912) 123-4567",
+    //"url": "https://alshedivat.github.io/al-folio/",
+    "summary": "The Australian National University's student, majoring in Computer Science and Mathematics with a minor in Philosophy",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -22,7 +22,30 @@
       }
     ]
   },
-  "work": [
+  "introduction": {
+    "name": "Amirul Haziq",
+    "Role": "Student",
+    "image": "",
+    "email": "mirulh406@gmail.com",
+    //"phone": "(912) 123-4567",
+    //"url": "https://alshedivat.github.io/al-folio/",
+    "summary": "The Australian National University's student, majoring in Computer Science and Mathematics with a minor in Philosophy",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  },
+  /*"work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -34,37 +57,93 @@
         "Relativity"
       ]
     }
-  ],
+  ],*/
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "The Australian National University",
+      //"url": "https://www.uzh.ch/",
+      "area": "Computer Science and Mathematics",
+      "studyType": "Bachelor of Science (Advanced) (Honours)",
+      "startDate": "2024-02",
+      //"endDate": "1905-01-01",
+      "score": "N/A",
+      "universitycourses": [
+        {
+          "year": "First Year",
+          "semesters": [
+            {
+              "semester1": [
+                {
+                  "coursecode": [
+                    "COMP1130 (Programming as Problem Solving (Advanced))",
+                    "MATH1115 (Advanced Mathematics and Applications 1)",
+                    "MATH2222 (Introduction to Mathematics Thinking: Problem-Solving and Proofs)",
+                    "PHIL1005 (Logic and Critical Thinking)"
+                  ]
+                }
+              ]
+            }
+          ]
+
+        }
+      ]
+    },
+    {
+      "institution": "MARA College Banting (Kolej MARA Banting)",
+      //"url": "https://www.uzh.ch/",
+      //"area": "Software Deve",
+      "studyType": "International Baccalaureate Diploma Programme",
+      "startDate": "2021-08",
+      "endDate": "2023-05",
+      "score": "37/45",
       "courses": [
-        "Theory of Relativity"
+        "Mathematics Analysis and Approaches HL (6)",
+        "Physics HL (6)",
+        "English B HL (6)",
+        "Chemistry SL (7)",
+        "ITGS SL (5)",
+        "Malay A Literature SL (5)",
+        "TOK (C), Extended Essay in Mathematics (B)"
+      ]
+    },
+    {
+      "institution": "SMK Bukit Mewah",
+      //"url": "https://www.uzh.ch/",
+      //"area": "Software Deve",
+      "studyType": "Sijil Pelajaran Malaysia (National Exam)",
+      "startDate": "2016-01",
+      "endDate": "2020-01",
+      "score": "6A+ 2A- 1A 1B+",
+      "courses": [
+        "Bahasa Melayu (B+)",
+        "English (A-)",
+        "History (A+)",
+        "Islamic Study (A-)",
+        "Islamic Worldview (A)",
+        "Mathematics (A+)",
+        "Additional Mathematics (A+)",
+        "Physics (A+)",
+        "Chemistry (A+)",
+        "Biology (A+)"
       ]
     }
   ],
   "awards": [
-    {
+    /*{
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+    }*/
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "Malay",
+      "fluency": "Native"
     },
     {
       "language": "English",
