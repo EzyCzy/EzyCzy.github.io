@@ -1,6 +1,6 @@
 ---
 layout: post
-title: what kind of smart am I?
+title: What kind of smart am I?
 date: 2023-09-04
 description: understanding the different kind of smart people out there (and me)
 tags: reflection human-behaviour
