@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The Fear of Trying
+title: The fear of trying
 date: 2023-09-14
-description: why trying is important for the society
+description: taking another lense on the effort of trying outside of your comfort zone
 tags: reflection human-behaviour
 category: exploration
 ---
