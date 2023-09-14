@@ -2,7 +2,7 @@
 layout: post
 title: The fear of trying
 date: 2023-09-14
-description: taking another lense on the effort of trying outside of your comfort zone
+description: taking another lense on the effort of stepping outside of your comfort zone
 tags: reflection human-behaviour
 category: exploration
 ---
