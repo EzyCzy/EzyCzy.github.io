@@ -3,8 +3,9 @@ layout: post
 title: The fear of trying
 date: 2023-09-14
 description: taking another lense on the effort of stepping outside of your comfort zone
-tags: reflection human-behaviour
-category: exploration
+giscus_comments: true
+tags: experience exploration
+category: reflection
 ---
 
 We, human, always exhibit some sort of fear. It's normal, it's a form of self-mechanism to protect ourselves. But from what? In this post, I'll be writing about this particular topic from my experience and try to bring an introspection of what is the cause of this phenomenon.

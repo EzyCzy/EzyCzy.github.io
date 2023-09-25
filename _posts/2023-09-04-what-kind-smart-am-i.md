@@ -3,8 +3,9 @@ layout: post
 title: What kind of smart am I?
 date: 2023-09-04
 description: understanding the different kind of smart people out there (and me)
-tags: reflection human-behaviour
-category: exploration
+giscus_comments: true
+tags: exploration
+category: reflection
 ---
 
 One of my friend told me that I was a life smart person - someone whom nagivates life with the upmost efficient way -, I had always considered myself as a book smart person, I like to learn from theory and come up with solution using whatever knowledge that I've acquired thus far in my life. Before, I could deny that claim, I thought "maybe he has a point", so today I'm going to attempt to find a conclusive idea on what kind of smart am I. 

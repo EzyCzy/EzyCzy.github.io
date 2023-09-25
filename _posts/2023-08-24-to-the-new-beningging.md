@@ -3,8 +3,9 @@ layout: post
 title: To the new beningging..benin. beningging...
 date: 2023-08-24
 description: final reflection (hopefully) about ib and universities.
-tags: reflection rant
-category: life
+giscus_comments: true
+tags: rant
+category: reflection
 ---
 
 As a prestige whore<a href="#prestige-whore"><sup>1</sup> <a>,going to prestigous university is one of my goals during the ib<a href="#ib"><sup>2</sup></a>. Why? I'm not really sure but I've come to regret many decisions that came with it. 
